@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f50a798d8e9c94560bfd271b045d613e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Patchy Robots
+  fontNames:
+  - Patchy Robots
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2869cc62e4b5c4b0ca39a6ed3060fa0e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
